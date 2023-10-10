@@ -1,0 +1,14 @@
+.text{
+    border: 2px solid brown;
+    width: 300px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+.text:hover{
+    overflow: visible;
+}
+.vert{
+    text-shadow: 0 0 30px rgb(0, 0, 0);
+
+}
